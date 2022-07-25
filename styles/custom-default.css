@@ -1,0 +1,23 @@
+@import url(./variables.css);
+
+html, body {
+  padding: 0;
+  margin: 0;
+  background-color: var(--cloud);
+  color: var(--granite);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--condensed-font);
+  color: var(--midnight);
+}
+
+p, div, span, li, tr, td {
+  font-family: var(--main-font);
+}
+
+.wrapper {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}

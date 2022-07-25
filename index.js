@@ -1,0 +1,1 @@
+console.log('Your Starter application is now running ✅');
